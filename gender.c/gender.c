@@ -5,7 +5,10 @@
  * Functions for determining the gender of a given first name.
  *
  * Copyright (c):
- * 2007-2008:  Jörg MICHAEL, Adalbert-Stifter-Str. 11, 30655 Hannover, Germany
+ * 2007-2008:  Jörg MICHAEL
+ *             Rotkäppchenweg 34         email: namequality.pro@googlemail.com
+ *             30179 Hannover			 phone: +49/1573/8492736
+ *             Germany
  *
  * SCCS: @(#) gender.c  1.2  2008-11-30
  *
@@ -38,7 +41,7 @@
  *     ct@ct.heise.de
  *
  * The author's email address is:
- *    astro.joerg@googlemail.com
+ *    namequality.pro@googlemail.com
  */
 
 

@@ -5,7 +5,10 @@
  * ISO Latin-1 umlauts for "phonet.c", "gender.c" and "addr.c".
  *
  * Copyright (c):
- * 2007:  Joerg MICHAEL, Adalbert-Stifter-Str. 11, 30655 Hannover, Germany
+ * 2007-2008:  Jörg MICHAEL
+ *             Rotkäppchenweg 34         email: namequality.pro@googlemail.com
+ *             30179 Hannover			 phone: +49/1573/8492736
+ *             Germany
  *
  * SCCS: @(#) umlaut.h  1.0  2007-08-27
  *
@@ -41,7 +44,7 @@
  *     ct@ct.heise.de
  *
  * The author's email address is:
- *    astro.joerg@googlemail.com
+ *    namequality.pro@googlemail.com
  */
 
 
