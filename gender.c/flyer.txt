@@ -1,0 +1,191 @@
+Jörg Michael   					
+Rotkäppchenweg 34		email: namequality.pro@googlemail.com 
+30179 Hannover			phone: +49/1573/8492736
+Germany
+
+
+Functions for checking names
+
+1.
+Checking names:
+Names in a database regularly need checking and verification.
+
+I can offer the following functions for checking names (first names and family names):
+
+- Automatically determining the gender of a given first name.
+- Splitting full names (e.g. "John Miller") into first name and family name.
+- Checking first names and family names.
+- Trying to correct a misspelled first name (e.g. Joesph -> Joseph).
+
+All functions can be used with *.csv-files for batch calls.
+Details upon request.
+
+2.
+Dictionary size (as of 01 June 2012):
+100,000+ first names worldwide, 500,000+ family names worldwide (see appendix).
+
+My dictionary is already used by "worldwide" companies like Googlemail and Twitter.
+
+Both dictionaries of first names and family names are expanded regularly.
+More countries will also be added in the future.
+
+
+
+#--------------------------------------------------------------------
+
+
+
+Jörg Michael   					
+Rotkäppchenweg 34		Email: namequality.pro@googlemail.com 
+30179 Hannover			Tel.: 01573/8492736
+Deutschland
+
+
+Funktionen zur Namensprüfung
+
+1.
+Namensprüfung:
+Bei hinreichend großen Anschriftenbeständen ist eine Qualitätssicherung 
+und eventuelle Datenbereinigung umabdingbar.
+
+Ich biete folgende Funktionen zur Namensprüfung an (Details auf Anfrage):
+
+- Automatische Anredebestimmung
+- Trennung von vollständigen Namen in Vor- und Nachname
+- Prüfung von Vor- bzw. Nachnamen
+- Suche nach Korrekturen für fehlerhafte Vornamen (z.B. Joesph -> Joseph)
+
+Alle Funktionen bieten eine csv-Schnittstelle für Batch-Aufrufe.
+
+2.
+Migrationsforschung
+
+Aufgrund der weltweit zunehmenden Migration ist die Staatangehörigkeit in der 
+heutigen Zeit kein gutes Kriterium mehr für das Herkunftsland.
+Onomastische, d.h. namensbasierte Stichprobenauswahlverfahren, füllen die Lücke.
+
+Ich kann Folgendes anbieten (Details auf Anfrage):
+
+- Onomastische Stichproben-Selektion von Namen einer vorgegebenen 
+  Nationalität (anhand des Nachnames, oder wahlweise mit Hilfe von 
+  Nachname und Vorname; bei Thailand ist der Vorname erforderlich).
+- Bestimmung des wahrscheinlichen Herkunftslandes anhand des Nachnames
+  bzw. Nachnamens plus Vornamens.
+- Anredebestimmung (z.B. zwecks "geschlechtsausgewogener" Stichproben).
+
+3.
+Datenbestand per 01.06.2012:
+100.000+ Vornamen weltweit, 500.000+ Nachnamen weltweit (siehe Anlage).
+
+Vor- und Nachnamenbestand werden regelmäßig erweitert.
+Weitere Länder sind in Vorbereitung.
+
+4.
+Referenzen:
+- Das Namenslexikon wird bereits von weltweiten Unternehmen wie Googlemail 
+  und Twitter eingesetzt.
+- J. Michael: 40000 Namen, Anredebestimmung anhand des Vornamens, c't, Heft 17/2007, 
+  S. 182-183 (http://www.heise.de/ct, soft-link 0717182).
+- J. Michael: Technische Verfahren zum Personen- und Adressdatenabgleich 
+  (URL: http://www.tmf-ev.de/DesktopModules/Bring2mind/DMX/Download.aspx?EntryId=3973&PortalId=0&rct=j&cad=rja, (das Komma ist wichtig))
+
+
+
+#--------------------------------------------------------------------
+
+
+
+Statistics of first names and family names in dictionary
+=========================================================
+
+Number of first names  :  103724
+   girl's names        :   22925
+   boy's  names        :   23293
+   unisex names        :   17484
+   gender unclassified :   40022
+Equivalent name pairs  :     792
+FAMILY NAMES           :  504476
+
+                              first names   family names
+Names from Great Britain         :   2423     7903
+Names from Ireland               :   2447     7110
+Names from U.S.A.                :   4658    22116
+Names from Italy                 :   2929    10536
+Names from Malta                 :   1898     1211
+Names from Portugal              :   1435     6117
+Names from Spain                 :   2363    19402
+Names from France                :   1888    23763
+Names from Belgium               :   1865     7024
+Names from Luxembourg            :    582     1624
+Names from the Netherlands       :   4074     7786
+Names from East Frisia           :   2710     5352
+Names from Germany               :   3033    99378
+Names from Austria               :   1773    13784
+Names from Switzerland           :   2516    10222
+Names from Iceland               :   1932     1126
+Names from Denmark               :   2483    13726
+Names from Greenland             :    337      121
+Names from Norway                :   1197    24046
+Names from Sweden                :    996     7624
+Names from Finland               :   3072    18840
+Names from Estonia               :   1162     5001
+Names from Latvia (Lettland)     :   1293     5757
+Names from Lithuania             :   1730     6704
+Names from Poland                :    383    14531
+Names from Czech Republic        :    484    53570
+Names from Slovakia              :    504     5147
+Names from Hungary               :    424     3068
+Names from Romania               :   1966     5238
+Names from Bulgaria              :   1815     5621
+Names from Bosnia and Herzegovina:   1484     4034
+Names from Croatia               :   1043     6688
+Names from Kosovo                :   1464     1566
+Names from Macedonia             :   1171     2605
+Names from Montenegro            :    926     1164
+Names from Serbia                :    764     4979
+Names from Slovenia              :    744     3893
+Names from Albania               :   6614     6416
+Names from Greece                :    828     7589
+Names from Russia                :    615    33574
+Names from Belarus               :    570    10110
+Names from Moldova               :    469     1721
+Names from Ukraine               :    603     9269
+Names from Armenia               :   1065     1574
+Names from Azerbaijan            :   3215     7494
+Names from Georgia               :    543     1743
+Names from Kazakhstan            :   1069     7428
+Names from Uzbekistan,etc.       :   1205     1594
+Names from Turkey                :   2594    17761
+Names from Arabia                :    831     2697
+Names from Israel                :   2358     3815
+Names from Lebanon               :   1515      838
+Names from Persia/Afghanistan    :    734     5075
+Names from Pakistan              :   1503      719
+Names from North Africa          :   1490     5172
+Names from Morocco               :    900     2733
+Names from West Africa           :   1511     4066
+Names from Ghana                 :    826     3360
+Names from Central Africa        :   5000     6853
+Names from Nigeria               :   4441     6081
+Names from East Africa           :   1775     2389
+Names from Ethiopia              :    579      555
+Names from Kenya                 :    590     1027
+Names from Southern Africa       :   1699     1885
+Names from South Africa          :    942      901
+Names from Bangladesh            :   3266     1825
+Names from India                 :   6851    13094
+Names from Sri Lanka             :   1482     1186
+Names from China                 :   9651      340
+Names from Japan                 :   2312     1947
+Names from Korea                 :   4864      155
+Names from Thailand              :   6928        0
+Names from Vietnam               :   1661      282
+Names from Australia/New Zealand :    900     2857
+Names from Malaysia              :   1302      706
+Names from Philippines           :   3973     5018
+Names from Pacific islands       :    844      906
+Names from Mexico                :   7433     5689
+Names from Middle America (other):    466     1188
+Names from Caribbean islands     :   1899     1618
+Names from Brazil                :    914     2470
+Names from South America (other) :    833     6584
