@@ -14,6 +14,7 @@ class GenderReaderConfig {
 	public static $maleIDs = array('M', '1M', '?M');
 	public static $unisexIDs = array('?');
 	public static $equivalentIDs = array('=');
+	public static $spacingCharacters = array('+');
 
 	public static $offsetID = 0;
 	public static $offsetName = 3;
@@ -36,8 +37,44 @@ class GenderReaderConfig {
 			'AT' => 43,
 			'CH' => 44,
 			'IS' => 45,
-			
-			// TODO continue here
-				
+			'DK' => 46,
+			'NO' => 47,
+			'SW' => 48,
+			'FI' => 49,
+			'EE' => 50,
+			'LV' => 51,
+			'LT' => 52,
+			'PL' => 53,
+			'CZ' => 54,
+			'SK' => 55,
+			'HU' => 56,
+			'RO' => 57,
+			'BG' => 58,
+			'BA' => 59,
+			'HR' => 60,
+			'XK' => 61,
+			'MK' => 62,
+			'ME' => 63,
+			'SR' => 64,
+			'SI' => 65,
+			'AL' => 66,
+			'GR' => 67,
+			'RU' => 68,
+			'BY' => 69,
+			'MD' => 70,
+			'UA' => 71,
+			'AM' => 72,
+			'AZ' => 73,
+			'GE' => 74,
+			'KZ' => 75,
+			'TR' => 76,
+			'SA' => 77,
+			'IL' => 78,
+			'CN' => 79,
+			'IN' => 80,
+			'JP' => 81,
+			'KR' => 82,
+			'VN' => 83,
+			'other' => 84
 	);
 }
