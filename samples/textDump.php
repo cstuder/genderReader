@@ -3,13 +3,11 @@
  * Dump all names as text
  * 
  * By default dumps all names, optionally specify with
- * CLI switches:
+ * a CLI switch:
  * 
- *  -female
- * 	-male
- *  -unisex
+ *  f fu m mu u
  *  
- * I.e.: php textDump.php -female -unisex
+ * I.e.: php textDump.php fu
  * (Will dump all possible female names, including unisex names) 	
  * 
  * @author christian studer <cstuder@existenz.ch>
@@ -18,5 +16,18 @@
 
 // Initialisation
 require dirname(__FILE__) . '/../genderReader.php';
+$switch = GenderReader::ALL;
 
-// TODO continue here
+// CLI arguments
+if(isset($argv[1])) {
+	$switch = strtolower($argv[1]);
+}
+
+// Fetch the names
+$g = new GenderReader();
+$names = $g->getNames($switch);
+
+// Output 
+foreach($names as $name) {
+	echo "{$name}\n";
+}

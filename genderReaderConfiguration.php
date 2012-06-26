@@ -8,7 +8,7 @@
  * @license Simplified BSD License
  */
 class GenderReaderConfig {
-	public static $dictionary = 'gender.c/nam_dict.txt';
+	public static $dictionaryFile = 'gender.c/nam_dict.txt';
 
 	public static $femaleIDs = array('F', '1F', '?F');
 	public static $maleIDs = array('M', '1M', '?M');
